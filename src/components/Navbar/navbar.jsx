@@ -13,7 +13,7 @@ const Navbar = () => {
   ];
 
   return (
-    <div className="bg-[#F1F9F9] fixed w-full md:px-[50px] z-[10000] px-6 flex md:flex-row flex-col items-center justify-between py-4">
+    <div className="bg-[#F1F9F9] fixed w-full md:px-[50px] z-[10000] px-5 flex md:flex-row flex-col items-center justify-between py-4">
       <div className="flex md:w-auto w-full justify-between items-center">
         <p className="text-[#1C2126] text-3xl font-bold">
           TRUST<span className="text-[#4525F2]">PAY</span>
