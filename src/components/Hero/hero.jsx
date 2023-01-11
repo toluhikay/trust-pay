@@ -4,7 +4,7 @@ import swal from "sweetalert";
 
 const Hero = () => {
   return (
-    <div className="bg-[#F1F9F9] flex md:flex-row md:items-center flex-col justify-between lg:py-[100px] lg:px-[120px] md:py-[70px] py-[120px] px-[70px] md:px-[50px]  min-h-screen w-full">
+    <div className="bg-[#F1F9F9] flex md:flex-row md:items-center flex-col justify-between lg:py-[100px] lg:px-[120px] md:py-[70px] py-[120px] px-[20px] md:px-[50px]  min-h-screen w-full">
       <div className="lg:w-1/2 md:w-2/3 flex flex-col md:text-start text-center w-full">
         <p className="text-[#4525F2] lg:text-[45px] md:text-[35px] text-[25px] capitalize font-bold">
           a simplified network without financial barriers

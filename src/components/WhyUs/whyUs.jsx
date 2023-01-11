@@ -5,7 +5,7 @@ import GlobeImage from "../../assets/globe.png";
 
 const WhyUs = () => {
   return (
-    <div className="lg:py-[100px] lg:px-[120px] md:py-[70px] py-[70px] px-[70px] md:px-[50px]">
+    <div className="lg:py-[100px] lg:px-[120px] md:py-[70px] py-[70px] px-[20px] md:px-[50px]">
       <div className="flex md:flex-row flex-col justify-between items-center">
         <WhyTexts
           p1={"About Us"}

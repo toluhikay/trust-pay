@@ -2,7 +2,7 @@ import React from "react";
 
 const Latest = () => {
   return (
-    <div className="lg:py-[100px] text-center flex flex-col items-center lg:px-[120px] md:py-[70px] py-[70px] px-[70px]    md:px-[50px]">
+    <div className="lg:py-[100px] text-center flex flex-col items-center lg:px-[120px] md:py-[70px] py-[70px] px-[20px]    md:px-[50px]">
       <p className="text-[#1C2126] md:text-[52px] text-[30px] font-bold">
         Latest Updates and News
       </p>

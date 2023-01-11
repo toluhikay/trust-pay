@@ -19,7 +19,7 @@ const Footer = () => {
   const date = new Date().getFullYear();
   return (
     <Fragment>
-      <div className="lg:py-[100px] bg-[#D7DCDE] flex lg:flex-row flex-col items-start justify-between lg:px-[120px] md:py-[70px] py-[70px] px-[70px]    md:px-[50px]">
+      <div className="lg:py-[100px] bg-[#D7DCDE] flex lg:flex-row flex-col items-start justify-between lg:px-[120px] md:py-[70px] py-[70px] px-[20px]    md:px-[50px]">
         <div className="lg:w-[30%] w-full">
           <p className="text-[#1C2126] text-3xl font-bold">
             TRUST<span className="text-[#4525F2]">PAY</span>
