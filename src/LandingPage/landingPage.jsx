@@ -16,8 +16,8 @@ const LandingPage = () => {
       {/* <AboutUs /> */}
       <WhyUs />
       <Services />
-      <Latest />
-      <Subcribe />
+      {/* <Latest /> */}
+      {/* <Subcribe /> */}
       <Footer />
     </div>
   );
